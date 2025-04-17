@@ -1,10 +1,10 @@
-# Deep Learning Study 
+# 📘 Deep Learning Study 
 
 This repository offers a structured deep dive into **Deep Learning**, inspired by [GeeksforGeeks' Deep Learning Tutorial](https://www.geeksforgeeks.org/deep-learning-tutorial/). It includes theoretical explanations and hands-on Jupyter Notebooks for major concepts and architectures in deep learning.
 
 ---
 
-## 📌 What is Deep Learning?
+## 🔍 Overview
 
 Deep Learning is a subset of machine learning that uses **neural networks with multiple layers** (deep architectures) to model complex patterns in large datasets. It is particularly powerful in tasks involving images, audio, natural language, and sequential data.
 
