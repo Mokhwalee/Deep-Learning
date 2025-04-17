@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Study Guide
+# Deep Learning Study 
 
 This repository offers a structured deep dive into **Deep Learning**, inspired by [GeeksforGeeks' Deep Learning Tutorial](https://www.geeksforgeeks.org/deep-learning-tutorial/). It includes theoretical explanations and hands-on Jupyter Notebooks for major concepts and architectures in deep learning.
 
